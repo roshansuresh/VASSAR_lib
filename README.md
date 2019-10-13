@@ -1,2 +1,2 @@
 # VASSAR_lib
-Corrected BaseParams import statement
+Library repository of the required base classes for VASSAR
